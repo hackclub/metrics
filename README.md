@@ -13,4 +13,4 @@ this repository:
 
 And you should get a plot that resembles the following:
 
-![](https://i.imgur.com/JYW5KH3.png)
+![](slack_stats.svg)
